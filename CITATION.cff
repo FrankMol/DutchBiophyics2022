@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DutchBiophysics'22
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Frank Nico
+    family-names: Mol
+    email: frank.mol@rug.nl
+    affiliation: University of Groningen
+    orcid: 'https://orcid.org/0000-0002-4342-1126'
